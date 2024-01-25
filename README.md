@@ -1,6 +1,6 @@
 # Dice Roller App
 
-![Dice Roller App](dice_roller_app_screenshot.png)
+![Dice Roller App](https://github.com/KunalDhand/DiceRoller/blob/master/screenshots/diceroller1.jpg)
 
 ## Overview
 
@@ -38,7 +38,7 @@ Contributions to the Dice Roller App are welcome! Whether you're interested in f
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://mit-license.org/) file for details.
 
 ---
 
